@@ -1,7 +1,5 @@
 # Plantilla WebApp con React JS
 
-> 🎥 Esta plantilla [cuenta con un video tutorial](https://youtu.be/9blWKQTJ1FA), para verlo haz clic aquí.
-
 ### Empezando:
 
 > 📦 Asegúrate de usar al menos la versión 20 de Node.
